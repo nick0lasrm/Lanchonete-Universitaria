@@ -18,3 +18,14 @@ Os papéis identificados são:
 - **Gerente**: consulta relatórios de vendas.
 
 O sistema deve ser simples e entregue em duas etapas (duas sprints).
+
+# Etapas:
+
+- Extrair **casos de uso essenciais**
+- Criar **backlog** em formato de histórias de usuário no GitHub Projects:
+    - Colunas: Backlog, ToDo, Doing, Review e Done
+- Planejar duas **sprints**
+- Em cada sprint fazer os **casos de uso expandidos**.
+- Simular execução das sprints com telas desenhadas no papel
+- Fazer o fechamento da sprints e apresentar ao cliente (professor)
+- Entrega do projeto
