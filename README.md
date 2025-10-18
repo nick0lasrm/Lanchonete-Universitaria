@@ -1,4 +1,4 @@
-# Lanchonete-Universitária
+git# Lanchonete-Universitária
 
 A **Lanchonete Universitária** deseja informatizar parte do seu atendimento. Atualmente, os pedidos são feitos em papel e o controle dos produtos é manual, o que gera erros e demora no processo.
 
