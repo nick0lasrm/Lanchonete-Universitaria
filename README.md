@@ -29,3 +29,5 @@ O sistema deve ser simples e entregue em duas etapas (duas sprints).
 - Simular execução das sprints com telas desenhadas no papel
 - Fazer o fechamento da sprints e apresentar ao cliente (professor)
 - Entrega do projeto
+
+
